@@ -18,7 +18,7 @@ minutes=0
 hours=0
 days=0
 
-#forgot this retarded function LOL
+#forgot this function LOL
 center() {
         cols=$(tput cols)
         for (( i=1; i<$#+1; i++ )); do
